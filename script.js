@@ -67,7 +67,7 @@ $(document).ready(function() {
 		createLabels();
 		dragPlayhead();
 		expandingButtons();
-		sendMessage("Test 7");
+		sendMessage("Test 8");
 	});
 	
 	
